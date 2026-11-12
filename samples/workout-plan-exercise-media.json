@@ -1,0 +1,158 @@
+{
+  "planId": "exercise-media-example",
+  "planName": "Exercise Media Example Plan",
+  "workoutDays": [
+    {
+      "day": "Monday",
+      "focus": "Lower body",
+      "exercises": [
+        {
+          "exerciseName": "Treadmill Walk",
+          "muscleGroup": "Cardio",
+          "exerciseType": "Cardio",
+          "targetMuscles": ["Legs"],
+          "description": "Walk at a steady pace.",
+          "equipment": ["Treadmill"],
+          "sets": 1,
+          "reps": null,
+          "durationSeconds": 600,
+          "restSeconds": 30,
+          "breathing": "Breathe steadily.",
+          "commonMistakes": [],
+          "trainerNotes": "Use a comfortable pace.",
+          "imageUrl": null,
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "ExerciseMachine",
+            "equipmentType": "Cardio machine",
+            "machineName": "Motorized Treadmill",
+            "alternativeEquipment": ["Outdoor walking route"],
+            "setupInstructions": "Stand on the side rails before starting. Attach the safety clip.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": null,
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Replace with alt text for a licensed treadmill walking demonstration.",
+            "sourceName": "Replace with your licensed media source",
+            "sourceUrl": null,
+            "attribution": "Replace with the provider's required attribution. Set a user-owned or licensed GIF URL in animationUrl."
+          }
+        },
+        {
+          "exerciseName": "Seated Machine Shoulder Press",
+          "muscleGroup": "Shoulders",
+          "exerciseType": "Strength",
+          "targetMuscles": ["Deltoids", "Triceps"],
+          "description": "Press the handles overhead with control.",
+          "equipment": ["Shoulder press machine"],
+          "sets": 3,
+          "reps": { "min": 8, "max": 12 },
+          "durationSeconds": null,
+          "restSeconds": 60,
+          "breathing": "Exhale as you press.",
+          "commonMistakes": [],
+          "trainerNotes": "Keep your back supported.",
+          "imageUrl": null,
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Seated machine",
+            "equipmentType": "Selectorized machine",
+            "machineName": "Selectorized Shoulder Press Machine",
+            "alternativeEquipment": ["Dumbbells", "Resistance bands"],
+            "setupInstructions": "Adjust the seat so the handles begin near shoulder height.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "image",
+            "animationUrl": null,
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Replace with alt text for a licensed shoulder press image.",
+            "sourceName": null,
+            "sourceUrl": null,
+            "attribution": null
+          }
+        },
+        {
+          "exerciseName": "Dumbbell Lateral Raise",
+          "muscleGroup": "Shoulders",
+          "exerciseType": "Strength",
+          "targetMuscles": ["Side deltoids"],
+          "description": "Raise the dumbbells out to the sides.",
+          "equipment": ["Dumbbells"],
+          "sets": 3,
+          "reps": { "min": 10, "max": 15 },
+          "durationSeconds": null,
+          "restSeconds": 60,
+          "breathing": "Exhale as you lift.",
+          "commonMistakes": [],
+          "trainerNotes": "Use a light load and controlled motion.",
+          "imageUrl": null,
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Dumbbells",
+            "equipmentType": "Free weights",
+            "machineName": null,
+            "alternativeEquipment": ["Cables", "Resistance bands"],
+            "setupInstructions": "Stand tall with a slight bend in the elbows.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "video",
+            "animationUrl": null,
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Replace with alt text for your self-hosted or licensed exercise video.",
+            "sourceName": "Your media library",
+            "sourceUrl": null,
+            "attribution": null
+          }
+        },
+        {
+          "exerciseName": "Reverse Pec Deck",
+          "muscleGroup": "Shoulders",
+          "exerciseType": "Strength",
+          "targetMuscles": ["Rear deltoids"],
+          "description": "Move the handles backward with control.",
+          "equipment": ["Reverse pec deck"],
+          "sets": 3,
+          "reps": { "min": 10, "max": 15 },
+          "durationSeconds": null,
+          "restSeconds": 60,
+          "breathing": "Exhale as your arms move back.",
+          "commonMistakes": [],
+          "trainerNotes": "Keep your shoulders relaxed.",
+          "imageUrl": null,
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Machine",
+            "equipmentType": "Selectorized machine",
+            "machineName": "Reverse Pec Deck / Rear Delt Fly Machine",
+            "alternativeEquipment": "Dumbbells, resistance bands",
+            "setupInstructions": "Set the seat and handles so your arms are level with your shoulders.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "none",
+            "animationUrl": null,
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": null,
+            "sourceName": null,
+            "sourceUrl": null,
+            "attribution": null
+          }
+        }
+      ]
+    },
+    { "day": "Tuesday", "focus": "Recovery", "exercises": [] },
+    { "day": "Wednesday", "focus": "Recovery", "exercises": [] },
+    { "day": "Thursday", "focus": "Recovery", "exercises": [] },
+    { "day": "Friday", "focus": "Recovery", "exercises": [] },
+    { "day": "Saturday", "focus": "Recovery", "exercises": [] },
+    { "day": "Sunday", "focus": "Recovery", "exercises": [] }
+  ]
+}

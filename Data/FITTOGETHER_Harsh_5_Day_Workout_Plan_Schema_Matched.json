@@ -1,0 +1,1933 @@
+{
+  "planId": "harsh-fat-loss-5day-001",
+  "planName": "5-Day Strength and Fat-Loss Foundation",
+  "workoutDays": [
+    {
+      "day": "Monday",
+      "focus": "Chest and Triceps",
+      "exercises": [
+        {
+          "exerciseName": "Treadmill Walk - Warm-up",
+          "muscleGroup": "Cardio",
+          "exerciseType": "Cardio",
+          "targetMuscles": [
+            "Cardiovascular system"
+          ],
+          "description": "Walk easily to moderately to raise body temperature before lifting.",
+          "equipment": [
+            "Treadmill"
+          ],
+          "sets": 1,
+          "reps": null,
+          "durationSeconds": 480,
+          "restSeconds": 0,
+          "breathing": "Breathe naturally.",
+          "commonMistakes": [],
+          "trainerNotes": "8 minutes. Keep this easy; do not treat it as a calorie-burning test.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/walking-on-incline-treadmill.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Motorized treadmill",
+            "equipmentType": "Cardio machine",
+            "machineName": "Motorized treadmill",
+            "alternativeEquipment": [
+              "Outdoor walking",
+              "Indoor track"
+            ],
+            "setupInstructions": "Set a comfortable speed, attach the safety clip, and walk upright.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/walking-on-incline-treadmill.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Treadmill Walk - Warm-up",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Machine Chest Press",
+          "muscleGroup": "Chest",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Chest",
+            "Triceps",
+            "Front deltoids"
+          ],
+          "description": "Press the handles forward with control; keep shoulder blades supported.",
+          "equipment": [
+            "Chest Press Machine"
+          ],
+          "sets": 3,
+          "reps": {
+            "min": 8,
+            "max": 12
+          },
+          "durationSeconds": null,
+          "restSeconds": 90,
+          "breathing": "Exhale while pressing; inhale while returning.",
+          "commonMistakes": [
+            "Locking elbows forcefully",
+            "Bouncing the weight"
+          ],
+          "trainerNotes": "Choose a load that leaves about 2-3 good reps in reserve.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/lever-chest-press.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Selectorized chest press machine",
+            "equipmentType": "Gym machine",
+            "machineName": "Selectorized chest press machine",
+            "alternativeEquipment": [
+              "Dumbbell bench press",
+              "Smith machine bench press"
+            ],
+            "setupInstructions": "Adjust seat so handles align around mid-chest; keep back supported.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/lever-chest-press.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Machine Chest Press",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Incline Dumbbell Press",
+          "muscleGroup": "Chest",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Upper chest",
+            "Triceps",
+            "Front deltoids"
+          ],
+          "description": "Press dumbbells upward on a low incline bench with wrists stacked over elbows.",
+          "equipment": [
+            "Dumbbells",
+            "Incline Bench"
+          ],
+          "sets": 3,
+          "reps": {
+            "min": 8,
+            "max": 12
+          },
+          "durationSeconds": null,
+          "restSeconds": 90,
+          "breathing": "Exhale on the press; inhale on the lowering phase.",
+          "commonMistakes": [
+            "Using an excessively steep bench",
+            "Arching the lower back excessively"
+          ],
+          "trainerNotes": "Use a comfortable low incline.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/dumbbell-incline-bench-press.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Adjustable incline bench and dumbbells",
+            "equipmentType": "Free weights",
+            "machineName": null,
+            "alternativeEquipment": [
+              "Incline chest press machine",
+              "Smith machine incline press"
+            ],
+            "setupInstructions": "Set bench to a low incline (about 15–30 degrees); keep wrists stacked over elbows.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/dumbbell-incline-bench-press.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Incline Dumbbell Press",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Cable Chest Fly",
+          "muscleGroup": "Chest",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Chest"
+          ],
+          "description": "Bring the handles together in a controlled arc with a soft bend in the elbows.",
+          "equipment": [
+            "Cable Machine"
+          ],
+          "sets": 2,
+          "reps": {
+            "min": 12,
+            "max": 15
+          },
+          "durationSeconds": null,
+          "restSeconds": 60,
+          "breathing": "Exhale as hands come together.",
+          "commonMistakes": [
+            "Overstretching the shoulders",
+            "Turning the movement into a press"
+          ],
+          "trainerNotes": "Use a light, controlled load.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/cable-standing-fly.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Dual adjustable cable crossover machine",
+            "equipmentType": "Cable machine",
+            "machineName": "Dual adjustable cable crossover machine",
+            "alternativeEquipment": [
+              "Pec deck machine",
+              "Dumbbell fly on bench"
+            ],
+            "setupInstructions": "Set pulleys around chest height; use a staggered stance and keep a soft elbow bend.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/cable-standing-fly.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Cable Chest Fly",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Rope Triceps Pushdown",
+          "muscleGroup": "Triceps",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Triceps"
+          ],
+          "description": "Keep elbows near the torso and extend the forearms downward.",
+          "equipment": [
+            "Cable Machine",
+            "Rope Attachment"
+          ],
+          "sets": 3,
+          "reps": {
+            "min": 10,
+            "max": 15
+          },
+          "durationSeconds": null,
+          "restSeconds": 60,
+          "breathing": "Exhale while extending.",
+          "commonMistakes": [
+            "Swinging the torso",
+            "Allowing elbows to drift forward"
+          ],
+          "trainerNotes": "Keep upper arms mostly still.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/cable-pushdown-with-rope-attachment.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Cable pulley station with rope attachment",
+            "equipmentType": "Cable machine",
+            "machineName": "Cable pulley station with rope attachment",
+            "alternativeEquipment": [
+              "Straight-bar cable pushdown",
+              "Resistance-band pushdown"
+            ],
+            "setupInstructions": "Set pulley high; pin elbows near sides and stand tall.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/cable-pushdown-with-rope-attachment.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Rope Triceps Pushdown",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Overhead Cable Triceps Extension",
+          "muscleGroup": "Triceps",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Triceps"
+          ],
+          "description": "Extend the elbows overhead while keeping the ribs controlled.",
+          "equipment": [
+            "Cable Machine",
+            "Rope Attachment"
+          ],
+          "sets": 2,
+          "reps": {
+            "min": 10,
+            "max": 12
+          },
+          "durationSeconds": null,
+          "restSeconds": 60,
+          "breathing": "Exhale while extending.",
+          "commonMistakes": [
+            "Flaring ribs",
+            "Using painful shoulder range"
+          ],
+          "trainerNotes": "Use a comfortable range of motion.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/cable-rope-high-pulley-overhead-tricep-extension.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Cable pulley station with rope attachment",
+            "equipmentType": "Cable machine",
+            "machineName": "Cable pulley station with rope attachment",
+            "alternativeEquipment": [
+              "Dumbbell overhead triceps extension",
+              "EZ-bar overhead extension"
+            ],
+            "setupInstructions": "Set pulley low and face away from it; brace trunk and keep elbows comfortably forward.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/cable-rope-high-pulley-overhead-tricep-extension.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Overhead Cable Triceps Extension",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Incline Treadmill Walk",
+          "muscleGroup": "Cardio",
+          "exerciseType": "Cardio",
+          "targetMuscles": [
+            "Cardiovascular system"
+          ],
+          "description": "Walk at a pace where you can speak in short sentences.",
+          "equipment": [
+            "Treadmill"
+          ],
+          "sets": 1,
+          "reps": null,
+          "durationSeconds": 1200,
+          "restSeconds": 0,
+          "breathing": "Breathe steadily.",
+          "commonMistakes": [],
+          "trainerNotes": "20 minutes at moderate effort. Reduce incline or use a bike/elliptical if needed.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/walking-on-incline-treadmill.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Motorized treadmill",
+            "equipmentType": "Cardio machine",
+            "machineName": "Motorized treadmill",
+            "alternativeEquipment": [
+              "Stationary bike",
+              "Elliptical trainer"
+            ],
+            "setupInstructions": "Use a moderate incline and pace; hold rails only when needed for balance.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/walking-on-incline-treadmill.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Incline Treadmill Walk",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "focus": "Back and Biceps",
+      "exercises": [
+        {
+          "exerciseName": "Stationary Bike - Warm-up",
+          "muscleGroup": "Cardio",
+          "exerciseType": "Cardio",
+          "targetMuscles": [
+            "Cardiovascular system"
+          ],
+          "description": "Pedal easily to warm up before strength training.",
+          "equipment": [
+            "Stationary Bike"
+          ],
+          "sets": 1,
+          "reps": null,
+          "durationSeconds": 480,
+          "restSeconds": 0,
+          "breathing": "Breathe naturally.",
+          "commonMistakes": [],
+          "trainerNotes": "8 minutes easy pace.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/stationary-bike-walk.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Stationary exercise bike",
+            "equipmentType": "Cardio machine",
+            "machineName": "Stationary exercise bike",
+            "alternativeEquipment": [
+              "Recumbent bike",
+              "Elliptical trainer"
+            ],
+            "setupInstructions": "Adjust seat so the knee remains slightly bent at the bottom of the pedal stroke.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/stationary-bike-walk.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Stationary Bike - Warm-up",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Lat Pulldown",
+          "muscleGroup": "Back",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Lats",
+            "Upper back",
+            "Biceps"
+          ],
+          "description": "Pull the bar toward the upper chest while keeping the torso stable.",
+          "equipment": [
+            "Lat Pulldown Machine"
+          ],
+          "sets": 3,
+          "reps": {
+            "min": 8,
+            "max": 12
+          },
+          "durationSeconds": null,
+          "restSeconds": 90,
+          "breathing": "Exhale while pulling; inhale while returning.",
+          "commonMistakes": [
+            "Pulling behind the neck",
+            "Leaning back excessively"
+          ],
+          "trainerNotes": "Use a controlled range; do not jerk the bar.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/lats/cable-pulldown.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Lat pulldown machine with long bar",
+            "equipmentType": "Cable machine",
+            "machineName": "Lat pulldown machine with long bar",
+            "alternativeEquipment": [
+              "Assisted pull-up machine",
+              "Resistance-band pulldown"
+            ],
+            "setupInstructions": "Secure thighs under pads; pull bar toward upper chest without leaning back excessively.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/lats/cable-pulldown.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Lat Pulldown",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Chest-Supported Row",
+          "muscleGroup": "Back",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Mid back",
+            "Rhomboids",
+            "Lats"
+          ],
+          "description": "Pull handles toward the ribs while keeping the chest supported.",
+          "equipment": [
+            "Chest-Supported Row Machine"
+          ],
+          "sets": 3,
+          "reps": {
+            "min": 8,
+            "max": 12
+          },
+          "durationSeconds": null,
+          "restSeconds": 90,
+          "breathing": "Exhale while rowing.",
+          "commonMistakes": [
+            "Shrugging shoulders",
+            "Using momentum"
+          ],
+          "trainerNotes": "Pause briefly with shoulder blades gently drawn back.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/upper-back/cable-incline-bench-row.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Chest-supported row machine",
+            "equipmentType": "Gym machine",
+            "machineName": "Chest-supported row machine",
+            "alternativeEquipment": [
+              "Incline bench dumbbell row",
+              "Chest-supported T-bar row"
+            ],
+            "setupInstructions": "Set chest pad so handles are reachable; keep chest in contact with pad.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/upper-back/cable-incline-bench-row.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Chest-Supported Row",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Seated Cable Row",
+          "muscleGroup": "Back",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Mid back",
+            "Lats",
+            "Biceps"
+          ],
+          "description": "Pull the handle toward the lower ribs without rocking the torso.",
+          "equipment": [
+            "Cable Machine",
+            "Row Handle"
+          ],
+          "sets": 2,
+          "reps": {
+            "min": 10,
+            "max": 12
+          },
+          "durationSeconds": null,
+          "restSeconds": 75,
+          "breathing": "Exhale while pulling.",
+          "commonMistakes": [
+            "Rounding the lower back",
+            "Leaning far backward"
+          ],
+          "trainerNotes": "Keep spine neutral.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/upper-back/cable-seated-row.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Seated low-row cable station with row handle",
+            "equipmentType": "Cable machine",
+            "machineName": "Seated low-row cable station with row handle",
+            "alternativeEquipment": [
+              "Seated row machine",
+              "Resistance-band row"
+            ],
+            "setupInstructions": "Sit tall with feet braced; pull toward lower ribs without rocking.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/upper-back/cable-seated-row.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Seated Cable Row",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Face Pull",
+          "muscleGroup": "Shoulders",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Rear deltoids",
+            "Upper back"
+          ],
+          "description": "Pull the rope toward face level with elbows comfortably high.",
+          "equipment": [
+            "Cable Machine",
+            "Rope Attachment"
+          ],
+          "sets": 2,
+          "reps": {
+            "min": 12,
+            "max": 15
+          },
+          "durationSeconds": null,
+          "restSeconds": 60,
+          "breathing": "Exhale while pulling.",
+          "commonMistakes": [
+            "Using excessive weight",
+            "Overarching the back"
+          ],
+          "trainerNotes": "Prioritize control and shoulder comfort.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/delts/cable-standing-rear-delt-row-with-rope.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Cable pulley station with rope attachment",
+            "equipmentType": "Cable machine",
+            "machineName": "Cable pulley station with rope attachment",
+            "alternativeEquipment": [
+              "Resistance-band face pull",
+              "Reverse pec deck"
+            ],
+            "setupInstructions": "Set pulley around upper-chest or face height; pull rope toward forehead with control.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/delts/cable-standing-rear-delt-row-with-rope.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Face Pull",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Dumbbell Biceps Curl",
+          "muscleGroup": "Biceps",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Biceps"
+          ],
+          "description": "Curl dumbbells without swinging the upper arms.",
+          "equipment": [
+            "Dumbbells"
+          ],
+          "sets": 3,
+          "reps": {
+            "min": 10,
+            "max": 12
+          },
+          "durationSeconds": null,
+          "restSeconds": 60,
+          "breathing": "Exhale while curling.",
+          "commonMistakes": [
+            "Swinging the torso",
+            "Moving elbows excessively"
+          ],
+          "trainerNotes": "Lower slowly.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/biceps/dumbbell-biceps-curl.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Pair of dumbbells",
+            "equipmentType": "Free weights",
+            "machineName": null,
+            "alternativeEquipment": [
+              "EZ-bar curl",
+              "Cable biceps curl"
+            ],
+            "setupInstructions": "Stand tall with elbows near torso; avoid swinging.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/biceps/dumbbell-biceps-curl.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Dumbbell Biceps Curl",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Hammer Curl",
+          "muscleGroup": "Biceps",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Biceps",
+            "Brachialis",
+            "Forearms"
+          ],
+          "description": "Curl with palms facing each other.",
+          "equipment": [
+            "Dumbbells"
+          ],
+          "sets": 2,
+          "reps": {
+            "min": 10,
+            "max": 12
+          },
+          "durationSeconds": null,
+          "restSeconds": 60,
+          "breathing": "Exhale while curling.",
+          "commonMistakes": [
+            "Swinging",
+            "Bending wrists"
+          ],
+          "trainerNotes": "Keep wrists neutral.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/biceps/dumbbell-cross-body-hammer-curl.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Pair of dumbbells",
+            "equipmentType": "Free weights",
+            "machineName": null,
+            "alternativeEquipment": [
+              "Rope hammer curl",
+              "Cross-body cable hammer curl"
+            ],
+            "setupInstructions": "Hold dumbbells with neutral grip; keep wrists straight and upper arms steady.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/biceps/dumbbell-cross-body-hammer-curl.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Hammer Curl",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Elliptical - Moderate Cardio",
+          "muscleGroup": "Cardio",
+          "exerciseType": "Cardio",
+          "targetMuscles": [
+            "Cardiovascular system"
+          ],
+          "description": "Maintain a steady moderate pace.",
+          "equipment": [
+            "Elliptical"
+          ],
+          "sets": 1,
+          "reps": null,
+          "durationSeconds": 1200,
+          "restSeconds": 0,
+          "breathing": "Breathe steadily.",
+          "commonMistakes": [],
+          "trainerNotes": "20 minutes. You should still be able to speak.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/walk-elliptical-cross-trainer.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Elliptical cross-trainer",
+            "equipmentType": "Cardio machine",
+            "machineName": "Elliptical cross-trainer",
+            "alternativeEquipment": [
+              "Stationary bike",
+              "Treadmill walk"
+            ],
+            "setupInstructions": "Stand upright and use a pace that allows conversation.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/walk-elliptical-cross-trainer.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Elliptical - Moderate Cardio",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "focus": "Legs and Abs",
+      "exercises": [
+        {
+          "exerciseName": "Easy Bike - Warm-up",
+          "muscleGroup": "Cardio",
+          "exerciseType": "Cardio",
+          "targetMuscles": [
+            "Cardiovascular system"
+          ],
+          "description": "Pedal easily before lower-body training.",
+          "equipment": [
+            "Stationary Bike"
+          ],
+          "sets": 1,
+          "reps": null,
+          "durationSeconds": 480,
+          "restSeconds": 0,
+          "breathing": "Breathe naturally.",
+          "commonMistakes": [],
+          "trainerNotes": "8 minutes easy pace.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/stationary-bike-walk.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Stationary exercise bike",
+            "equipmentType": "Cardio machine",
+            "machineName": "Stationary exercise bike",
+            "alternativeEquipment": [
+              "Recumbent bike",
+              "Treadmill walk"
+            ],
+            "setupInstructions": "Set seat height for a slight knee bend at the bottom of the pedal stroke.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/stationary-bike-walk.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Easy Bike - Warm-up",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Leg Press",
+          "muscleGroup": "Legs",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Quadriceps",
+            "Glutes"
+          ],
+          "description": "Lower the platform under control, then press without locking knees.",
+          "equipment": [
+            "Leg Press Machine"
+          ],
+          "sets": 3,
+          "reps": {
+            "min": 10,
+            "max": 12
+          },
+          "durationSeconds": null,
+          "restSeconds": 120,
+          "breathing": "Inhale while lowering; exhale while pressing.",
+          "commonMistakes": [
+            "Allowing lower back to round",
+            "Locking knees forcefully"
+          ],
+          "trainerNotes": "Use a comfortable depth.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/sled-45-leg-press.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "45-degree sled leg press machine",
+            "equipmentType": "Gym machine",
+            "machineName": "45-degree sled leg press machine",
+            "alternativeEquipment": [
+              "Horizontal leg press machine",
+              "Goblet squat"
+            ],
+            "setupInstructions": "Place feet about shoulder-width; lower only as far as pelvis stays against backrest.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/sled-45-leg-press.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Leg Press",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Dumbbell Romanian Deadlift",
+          "muscleGroup": "Legs",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Hamstrings",
+            "Glutes"
+          ],
+          "description": "Push hips backward with a neutral spine and dumbbells close to the legs.",
+          "equipment": [
+            "Dumbbells"
+          ],
+          "sets": 3,
+          "reps": {
+            "min": 8,
+            "max": 12
+          },
+          "durationSeconds": null,
+          "restSeconds": 120,
+          "breathing": "Inhale while hinging; exhale while standing.",
+          "commonMistakes": [
+            "Rounding the back",
+            "Squatting instead of hinging"
+          ],
+          "trainerNotes": "Start light and learn the hip hinge.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/dumbbell-romanian-deadlift.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Pair of dumbbells",
+            "equipmentType": "Free weights",
+            "machineName": null,
+            "alternativeEquipment": [
+              "Barbell Romanian deadlift",
+              "Cable pull-through"
+            ],
+            "setupInstructions": "Soften knees, hinge hips backward, keep dumbbells close to legs and spine neutral.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/dumbbell-romanian-deadlift.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Dumbbell Romanian Deadlift",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Seated Leg Curl",
+          "muscleGroup": "Legs",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Hamstrings"
+          ],
+          "description": "Curl the pad down smoothly and return with control.",
+          "equipment": [
+            "Leg Curl Machine"
+          ],
+          "sets": 3,
+          "reps": {
+            "min": 10,
+            "max": 15
+          },
+          "durationSeconds": null,
+          "restSeconds": 75,
+          "breathing": "Exhale while curling.",
+          "commonMistakes": [
+            "Using momentum",
+            "Shortening the range unnecessarily"
+          ],
+          "trainerNotes": "Avoid painful knee range.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/hamstrings/lever-seated-leg-curl.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Seated leg curl machine",
+            "equipmentType": "Gym machine",
+            "machineName": "Seated leg curl machine",
+            "alternativeEquipment": [
+              "Lying leg curl machine",
+              "Standing single-leg curl machine"
+            ],
+            "setupInstructions": "Align machine pivot with knee joint; position ankle pad just above heels.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/hamstrings/lever-seated-leg-curl.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Seated Leg Curl",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Supported Split Squat",
+          "muscleGroup": "Legs",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Quadriceps",
+            "Glutes"
+          ],
+          "description": "Use a support for balance and lower only as far as comfortable.",
+          "equipment": [
+            "Bodyweight",
+            "Support Rail"
+          ],
+          "sets": 2,
+          "reps": {
+            "min": 8,
+            "max": 10
+          },
+          "durationSeconds": null,
+          "restSeconds": 90,
+          "breathing": "Inhale while lowering; exhale while rising.",
+          "commonMistakes": [
+            "Losing balance",
+            "Forcing depth"
+          ],
+          "trainerNotes": "Perform 8-10 reps per leg; use bodyweight initially.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/split-squats.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Bodyweight with stable support or dumbbells",
+            "equipmentType": "Bodyweight / free weights",
+            "machineName": null,
+            "alternativeEquipment": [
+              "Supported reverse lunge",
+              "Split squat holding a rack"
+            ],
+            "setupInstructions": "Use a stable support for balance; take a comfortable stance and lower under control.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/split-squats.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Supported Split Squat",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Standing Calf Raise",
+          "muscleGroup": "Calves",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Calves"
+          ],
+          "description": "Rise onto the balls of the feet, pause, and lower slowly.",
+          "equipment": [
+            "Calf Raise Machine"
+          ],
+          "sets": 3,
+          "reps": {
+            "min": 12,
+            "max": 15
+          },
+          "durationSeconds": null,
+          "restSeconds": 60,
+          "breathing": "Exhale while rising.",
+          "commonMistakes": [
+            "Bouncing",
+            "Using partial range"
+          ],
+          "trainerNotes": "Use a controlled range.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/calves/bodyweight-standing-calf-raise.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Standing calf raise machine or stable step",
+            "equipmentType": "Gym machine / bodyweight",
+            "machineName": "Standing calf raise machine or stable step",
+            "alternativeEquipment": [
+              "Leg press calf raise",
+              "Bodyweight calf raise"
+            ],
+            "setupInstructions": "Keep forefoot supported; lower heels slowly and rise without bouncing.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/calves/bodyweight-standing-calf-raise.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Standing Calf Raise",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Dead Bug",
+          "muscleGroup": "Abs",
+          "exerciseType": "Core",
+          "targetMuscles": [
+            "Deep core"
+          ],
+          "description": "Keep the lower back gently supported while extending opposite arm and leg.",
+          "equipment": [
+            "Exercise Mat"
+          ],
+          "sets": 2,
+          "reps": {
+            "min": 8,
+            "max": 10
+          },
+          "durationSeconds": null,
+          "restSeconds": 45,
+          "breathing": "Exhale as you extend.",
+          "commonMistakes": [
+            "Arching the lower back",
+            "Moving too quickly"
+          ],
+          "trainerNotes": "8-10 reps per side.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/dead-bug.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Exercise mat",
+            "equipmentType": "Bodyweight",
+            "machineName": null,
+            "alternativeEquipment": [
+              "Heel taps",
+              "Bird dog"
+            ],
+            "setupInstructions": "Keep lower back gently supported; move opposite arm and leg slowly.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/dead-bug.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Dead Bug",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Front Plank",
+          "muscleGroup": "Abs",
+          "exerciseType": "Core",
+          "targetMuscles": [
+            "Abdominals",
+            "Deep core"
+          ],
+          "description": "Hold a straight body line with elbows under shoulders.",
+          "equipment": [
+            "Exercise Mat"
+          ],
+          "sets": 3,
+          "reps": null,
+          "durationSeconds": 30,
+          "restSeconds": 45,
+          "breathing": "Breathe continuously.",
+          "commonMistakes": [
+            "Sagging hips",
+            "Holding breath"
+          ],
+          "trainerNotes": "Hold 20-30 seconds initially; stop before form breaks.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/weighted-front-plank.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Exercise mat",
+            "equipmentType": "Bodyweight",
+            "machineName": null,
+            "alternativeEquipment": [
+              "Kneeling plank",
+              "Incline plank"
+            ],
+            "setupInstructions": "Keep elbows under shoulders and maintain a straight line from head to heels.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/weighted-front-plank.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Front Plank",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Treadmill Walk",
+          "muscleGroup": "Cardio",
+          "exerciseType": "Cardio",
+          "targetMuscles": [
+            "Cardiovascular system"
+          ],
+          "description": "Walk at a moderate, sustainable pace.",
+          "equipment": [
+            "Treadmill"
+          ],
+          "sets": 1,
+          "reps": null,
+          "durationSeconds": 900,
+          "restSeconds": 0,
+          "breathing": "Breathe steadily.",
+          "commonMistakes": [],
+          "trainerNotes": "15 minutes moderate effort.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/walking-on-incline-treadmill.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Motorized treadmill",
+            "equipmentType": "Cardio machine",
+            "machineName": "Motorized treadmill",
+            "alternativeEquipment": [
+              "Stationary bike",
+              "Elliptical trainer"
+            ],
+            "setupInstructions": "Walk at an easy-to-moderate conversational pace.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/walking-on-incline-treadmill.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Treadmill Walk",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "focus": "Shoulders and Arms",
+      "exercises": [
+        {
+          "exerciseName": "Treadmill Walk - Warm-up",
+          "muscleGroup": "Cardio",
+          "exerciseType": "Cardio",
+          "targetMuscles": [
+            "Cardiovascular system"
+          ],
+          "description": "Walk easily before upper-body training.",
+          "equipment": [
+            "Treadmill"
+          ],
+          "sets": 1,
+          "reps": null,
+          "durationSeconds": 480,
+          "restSeconds": 0,
+          "breathing": "Breathe naturally.",
+          "commonMistakes": [],
+          "trainerNotes": "8 minutes easy pace.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/walking-on-incline-treadmill.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Motorized treadmill",
+            "equipmentType": "Cardio machine",
+            "machineName": "Motorized treadmill",
+            "alternativeEquipment": [
+              "Stationary bike",
+              "Elliptical trainer"
+            ],
+            "setupInstructions": "Walk easily to prepare for strength training.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/walking-on-incline-treadmill.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Treadmill Walk - Warm-up",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Seated Machine Shoulder Press",
+          "muscleGroup": "Shoulders",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Front deltoids",
+            "Side deltoids",
+            "Triceps"
+          ],
+          "description": "Press overhead in a comfortable range while keeping ribs down.",
+          "equipment": [
+            "Shoulder Press Machine"
+          ],
+          "sets": 3,
+          "reps": {
+            "min": 8,
+            "max": 12
+          },
+          "durationSeconds": null,
+          "restSeconds": 90,
+          "breathing": "Exhale while pressing.",
+          "commonMistakes": [
+            "Arching lower back",
+            "Forcing painful overhead range"
+          ],
+          "trainerNotes": "Use a comfortable range and moderate load.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/delts/lever-shoulder-press.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Selectorized shoulder press machine",
+            "equipmentType": "Gym machine",
+            "machineName": "Selectorized shoulder press machine",
+            "alternativeEquipment": [
+              "Seated dumbbell shoulder press",
+              "Smith machine shoulder press"
+            ],
+            "setupInstructions": "Adjust seat so handles begin around shoulder height; keep back supported.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/delts/lever-shoulder-press.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Seated Machine Shoulder Press",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Dumbbell Lateral Raise",
+          "muscleGroup": "Shoulders",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Side deltoids"
+          ],
+          "description": "Raise dumbbells out to the sides to a comfortable height with soft elbows.",
+          "equipment": [
+            "Dumbbells"
+          ],
+          "sets": 3,
+          "reps": {
+            "min": 12,
+            "max": 15
+          },
+          "durationSeconds": null,
+          "restSeconds": 60,
+          "breathing": "Exhale while raising.",
+          "commonMistakes": [
+            "Swinging weights",
+            "Shrugging shoulders"
+          ],
+          "trainerNotes": "Use light weights and strict form.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/delts/dumbbell-lateral-raise.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Pair of light dumbbells",
+            "equipmentType": "Free weights",
+            "machineName": null,
+            "alternativeEquipment": [
+              "Cable lateral raise",
+              "Lateral raise machine"
+            ],
+            "setupInstructions": "Raise arms out to sides with soft elbows; stop around shoulder height.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/delts/dumbbell-lateral-raise.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Dumbbell Lateral Raise",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Reverse Pec Deck",
+          "muscleGroup": "Shoulders",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Rear deltoids",
+            "Upper back"
+          ],
+          "description": "Move arms outward against resistance without shrugging.",
+          "equipment": [
+            "Reverse Pec Deck Machine"
+          ],
+          "sets": 2,
+          "reps": {
+            "min": 12,
+            "max": 15
+          },
+          "durationSeconds": null,
+          "restSeconds": 60,
+          "breathing": "Exhale while opening.",
+          "commonMistakes": [
+            "Using momentum",
+            "Overextending shoulders"
+          ],
+          "trainerNotes": "Keep the movement controlled.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/delts/lever-seated-reverse-fly.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Reverse pec deck / rear-delt fly machine",
+            "equipmentType": "Gym machine",
+            "machineName": "Reverse pec deck / rear-delt fly machine",
+            "alternativeEquipment": [
+              "Cable reverse fly",
+              "Chest-supported dumbbell rear-delt fly"
+            ],
+            "setupInstructions": "Face the pad; adjust handles so arms move outward at shoulder level.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/delts/lever-seated-reverse-fly.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Reverse Pec Deck",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Cable Biceps Curl",
+          "muscleGroup": "Biceps",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Biceps"
+          ],
+          "description": "Curl the handle while keeping elbows close to the sides.",
+          "equipment": [
+            "Cable Machine",
+            "Straight Bar"
+          ],
+          "sets": 3,
+          "reps": {
+            "min": 10,
+            "max": 12
+          },
+          "durationSeconds": null,
+          "restSeconds": 60,
+          "breathing": "Exhale while curling.",
+          "commonMistakes": [
+            "Leaning backward",
+            "Moving elbows forward"
+          ],
+          "trainerNotes": "Keep torso stable.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/biceps/cable-curl.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Cable pulley station with straight bar or D-handle",
+            "equipmentType": "Cable machine",
+            "machineName": "Cable pulley station with straight bar or D-handle",
+            "alternativeEquipment": [
+              "Dumbbell curl",
+              "EZ-bar curl"
+            ],
+            "setupInstructions": "Set pulley low; keep elbows near torso and avoid body swing.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/biceps/cable-curl.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Cable Biceps Curl",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Rope Triceps Pushdown",
+          "muscleGroup": "Triceps",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Triceps"
+          ],
+          "description": "Extend elbows while keeping upper arms close to the torso.",
+          "equipment": [
+            "Cable Machine",
+            "Rope Attachment"
+          ],
+          "sets": 3,
+          "reps": {
+            "min": 10,
+            "max": 15
+          },
+          "durationSeconds": null,
+          "restSeconds": 60,
+          "breathing": "Exhale while extending.",
+          "commonMistakes": [
+            "Swinging",
+            "Excessive shoulder movement"
+          ],
+          "trainerNotes": "Use controlled repetitions.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/cable-pushdown-with-rope-attachment.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Cable pulley station with rope attachment",
+            "equipmentType": "Cable machine",
+            "machineName": "Cable pulley station with rope attachment",
+            "alternativeEquipment": [
+              "Straight-bar pushdown",
+              "Resistance-band pushdown"
+            ],
+            "setupInstructions": "Set pulley high; keep elbows close to sides.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/triceps/cable-pushdown-with-rope-attachment.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Rope Triceps Pushdown",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Wrist Curl",
+          "muscleGroup": "Forearms",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Forearm flexors"
+          ],
+          "description": "Move the wrists through a comfortable range with forearms supported.",
+          "equipment": [
+            "Light Dumbbells",
+            "Bench"
+          ],
+          "sets": 2,
+          "reps": {
+            "min": 12,
+            "max": 15
+          },
+          "durationSeconds": null,
+          "restSeconds": 45,
+          "breathing": "Breathe naturally.",
+          "commonMistakes": [
+            "Using heavy weight",
+            "Moving the elbows"
+          ],
+          "trainerNotes": "Optional; skip if wrists are uncomfortable.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/forearms/dumbbell-over-bench-wrist-curl.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Light dumbbells or wrist-curl bar with bench",
+            "equipmentType": "Free weights",
+            "machineName": null,
+            "alternativeEquipment": [
+              "Cable wrist curl",
+              "Reverse wrist curl"
+            ],
+            "setupInstructions": "Rest forearms on thighs or bench; move wrists only and use light resistance.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/forearms/dumbbell-over-bench-wrist-curl.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Wrist Curl",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Stationary Bike - Moderate Cardio",
+          "muscleGroup": "Cardio",
+          "exerciseType": "Cardio",
+          "targetMuscles": [
+            "Cardiovascular system"
+          ],
+          "description": "Cycle at a steady moderate pace.",
+          "equipment": [
+            "Stationary Bike"
+          ],
+          "sets": 1,
+          "reps": null,
+          "durationSeconds": 1200,
+          "restSeconds": 0,
+          "breathing": "Breathe steadily.",
+          "commonMistakes": [],
+          "trainerNotes": "20 minutes moderate effort.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/stationary-bike-walk.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Stationary exercise bike",
+            "equipmentType": "Cardio machine",
+            "machineName": "Stationary exercise bike",
+            "alternativeEquipment": [
+              "Elliptical trainer",
+              "Treadmill walk"
+            ],
+            "setupInstructions": "Maintain a steady moderate pace.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/stationary-bike-walk.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Stationary Bike - Moderate Cardio",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "focus": "Full Body and Core Conditioning",
+      "exercises": [
+        {
+          "exerciseName": "Elliptical - Warm-up",
+          "muscleGroup": "Cardio",
+          "exerciseType": "Cardio",
+          "targetMuscles": [
+            "Cardiovascular system"
+          ],
+          "description": "Move easily to warm up the whole body.",
+          "equipment": [
+            "Elliptical"
+          ],
+          "sets": 1,
+          "reps": null,
+          "durationSeconds": 480,
+          "restSeconds": 0,
+          "breathing": "Breathe naturally.",
+          "commonMistakes": [],
+          "trainerNotes": "8 minutes easy pace.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/walk-elliptical-cross-trainer.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Elliptical cross-trainer",
+            "equipmentType": "Cardio machine",
+            "machineName": "Elliptical cross-trainer",
+            "alternativeEquipment": [
+              "Stationary bike",
+              "Treadmill walk"
+            ],
+            "setupInstructions": "Start at low resistance and increase gradually if comfortable.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/walk-elliptical-cross-trainer.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Elliptical - Warm-up",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Goblet Squat",
+          "muscleGroup": "Legs",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Quadriceps",
+            "Glutes",
+            "Core"
+          ],
+          "description": "Hold one dumbbell at chest level and squat to a comfortable depth.",
+          "equipment": [
+            "Dumbbell"
+          ],
+          "sets": 3,
+          "reps": {
+            "min": 10,
+            "max": 12
+          },
+          "durationSeconds": null,
+          "restSeconds": 90,
+          "breathing": "Inhale while lowering; exhale while standing.",
+          "commonMistakes": [
+            "Knees collapsing inward",
+            "Rounding the back"
+          ],
+          "trainerNotes": "Use a light load and controlled form.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/dumbbell-goblet-squat.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Dumbbell or kettlebell",
+            "equipmentType": "Free weights",
+            "machineName": null,
+            "alternativeEquipment": [
+              "Bodyweight squat",
+              "Goblet squat with kettlebell"
+            ],
+            "setupInstructions": "Hold weight close to chest; squat between hips while keeping heels down.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/dumbbell-goblet-squat.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Goblet Squat",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Machine Chest Press",
+          "muscleGroup": "Chest",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Chest",
+            "Triceps"
+          ],
+          "description": "Press the handles forward with controlled movement.",
+          "equipment": [
+            "Chest Press Machine"
+          ],
+          "sets": 2,
+          "reps": {
+            "min": 10,
+            "max": 12
+          },
+          "durationSeconds": null,
+          "restSeconds": 75,
+          "breathing": "Exhale while pressing.",
+          "commonMistakes": [
+            "Locking elbows forcefully",
+            "Bouncing"
+          ],
+          "trainerNotes": "Keep 2-3 reps in reserve.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/lever-chest-press.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Selectorized chest press machine",
+            "equipmentType": "Gym machine",
+            "machineName": "Selectorized chest press machine",
+            "alternativeEquipment": [
+              "Dumbbell bench press",
+              "Smith machine bench press"
+            ],
+            "setupInstructions": "Adjust seat so handles align around mid-chest; keep back supported.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/pectorals/lever-chest-press.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Machine Chest Press",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Neutral-Grip Lat Pulldown",
+          "muscleGroup": "Back",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Lats",
+            "Biceps"
+          ],
+          "description": "Pull handles toward the upper chest without swinging.",
+          "equipment": [
+            "Lat Pulldown Machine"
+          ],
+          "sets": 2,
+          "reps": {
+            "min": 10,
+            "max": 12
+          },
+          "durationSeconds": null,
+          "restSeconds": 75,
+          "breathing": "Exhale while pulling.",
+          "commonMistakes": [
+            "Pulling behind neck",
+            "Jerking torso"
+          ],
+          "trainerNotes": "Use a controlled load.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/lats/twin-handle-parallel-grip-lat-pulldown.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Lat pulldown machine with neutral-grip handle",
+            "equipmentType": "Cable machine",
+            "machineName": "Lat pulldown machine with neutral-grip handle",
+            "alternativeEquipment": [
+              "Neutral-grip assisted pull-up",
+              "Close-grip cable pulldown"
+            ],
+            "setupInstructions": "Secure thighs under pads; pull handle toward upper chest with torso steady.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/lats/twin-handle-parallel-grip-lat-pulldown.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Neutral-Grip Lat Pulldown",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Hip Thrust Machine",
+          "muscleGroup": "Legs",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Glutes",
+            "Hamstrings"
+          ],
+          "description": "Drive hips upward while keeping ribs down and avoiding excessive back arch.",
+          "equipment": [
+            "Hip Thrust Machine"
+          ],
+          "sets": 3,
+          "reps": {
+            "min": 10,
+            "max": 12
+          },
+          "durationSeconds": null,
+          "restSeconds": 90,
+          "breathing": "Exhale while lifting.",
+          "commonMistakes": [
+            "Overarching the lower back",
+            "Using momentum"
+          ],
+          "trainerNotes": "Pause briefly at the top.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/resistance-band-hip-thrusts-on-knees-female.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Hip thrust / glute drive machine",
+            "equipmentType": "Gym machine",
+            "machineName": "Hip thrust / glute drive machine",
+            "alternativeEquipment": [
+              "Dumbbell hip thrust",
+              "Barbell hip thrust"
+            ],
+            "setupInstructions": "Position pad across hips; keep chin tucked and finish with hips extended, not lower-back arch.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/glutes/resistance-band-hip-thrusts-on-knees-female.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Hip Thrust Machine",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Pallof Press",
+          "muscleGroup": "Abs",
+          "exerciseType": "Core",
+          "targetMuscles": [
+            "Obliques",
+            "Deep core"
+          ],
+          "description": "Press the cable away from the chest while resisting torso rotation.",
+          "equipment": [
+            "Cable Machine"
+          ],
+          "sets": 2,
+          "reps": {
+            "min": 10,
+            "max": 12
+          },
+          "durationSeconds": null,
+          "restSeconds": 45,
+          "breathing": "Exhale while pressing.",
+          "commonMistakes": [
+            "Rotating toward the cable",
+            "Leaning"
+          ],
+          "trainerNotes": "Perform reps on both sides.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/band-horizontal-pallof-press.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Cable pulley station with single handle",
+            "equipmentType": "Cable machine",
+            "machineName": "Cable pulley station with single handle",
+            "alternativeEquipment": [
+              "Resistance band anchored at chest height"
+            ],
+            "setupInstructions": "Set pulley at chest height; stand side-on and resist trunk rotation as arms extend.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/abs/band-horizontal-pallof-press.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Pallof Press",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Farmer Carry",
+          "muscleGroup": "Full Body",
+          "exerciseType": "Strength",
+          "targetMuscles": [
+            "Grip",
+            "Core",
+            "Traps"
+          ],
+          "description": "Walk steadily while carrying dumbbells with an upright posture.",
+          "equipment": [
+            "Dumbbells"
+          ],
+          "sets": 3,
+          "reps": null,
+          "durationSeconds": 30,
+          "restSeconds": 60,
+          "breathing": "Breathe continuously.",
+          "commonMistakes": [],
+          "trainerNotes": "Walk 20-30 metres per set, or about 20-30 seconds. Use a manageable load.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/farmers-walk.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Pair of dumbbells or farmer-carry handles",
+            "equipmentType": "Free weights",
+            "machineName": null,
+            "alternativeEquipment": [
+              "Trap-bar carry",
+              "Kettlebell carry"
+            ],
+            "setupInstructions": "Stand tall, brace abdomen and walk with controlled short steps.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/quads/farmers-walk.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Farmer Carry",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        },
+        {
+          "exerciseName": "Brisk Walk or Elliptical",
+          "muscleGroup": "Cardio",
+          "exerciseType": "Cardio",
+          "targetMuscles": [
+            "Cardiovascular system"
+          ],
+          "description": "Finish with steady moderate cardio.",
+          "equipment": [
+            "Treadmill or Elliptical"
+          ],
+          "sets": 1,
+          "reps": null,
+          "durationSeconds": 1200,
+          "restSeconds": 0,
+          "breathing": "Breathe steadily.",
+          "commonMistakes": [],
+          "trainerNotes": "20 minutes. Avoid all-out intervals during the initial conditioning phase.",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/walk-elliptical-cross-trainer.gif",
+          "videoUrl": null,
+          "equipmentDetails": {
+            "primaryEquipment": "Treadmill or elliptical trainer",
+            "equipmentType": "Cardio machine",
+            "machineName": "Treadmill or elliptical trainer",
+            "alternativeEquipment": [
+              "Stationary bike",
+              "Outdoor brisk walk"
+            ],
+            "setupInstructions": "Choose a comfortable steady pace; maintain a conversational effort.",
+            "equipmentImageUrl": null
+          },
+          "media": {
+            "type": "gif",
+            "animationUrl": "https://cdn.jsdelivr.net/gh/JahelCuadrado/ExerciseGymGifsDB@v1.1.0/cardio/walk-elliptical-cross-trainer.gif",
+            "thumbnailUrl": null,
+            "videoUrl": null,
+            "altText": "Animated demonstration of Brisk Walk or Elliptical",
+            "sourceName": "ExerciseGymGifsDB",
+            "sourceUrl": "https://jahelcuadrado.github.io/ExerciseGymGifsDB/",
+            "attribution": "ExerciseGymGifsDB; verify repository terms before redistribution."
+          }
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "focus": "Rest and Active Recovery",
+      "exercises": []
+    },
+    {
+      "day": "Sunday",
+      "focus": "Rest and Recovery",
+      "exercises": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+import { createServerSupabaseClient } from "@/lib/supabase/server";
+import { ExerciseLibrary } from "@/components/exercises/library";
+export default async function ExercisesPage(){const supabase=await createServerSupabaseClient();const {data:{user}}=await supabase.auth.getUser();if(!user)return null;const {data}=await supabase.from("exercises").select("id,name,muscle_group,exercise_type,target_muscles,description,equipment,breathing,common_mistakes,trainer_notes,image_url,video_url,equipment_details,media").eq("user_id",user.id).order("name");return <ExerciseLibrary exercises={(data??[]) as never}/>;}
